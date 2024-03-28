@@ -1,4 +1,12 @@
 ## CSS Box Model Project
+## Simple but beautiful & professional Cards Example?
+
+#### I liked the way this very simple project looked so I've decided to place it on GitHub repo... maybe for the future reference.
+
+This project is part of the Udemy courese: [HTML&CSS Tutorial and Projects Course (Flexbox&Grid)](https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/) by [John Smilga](https://www.udemy.com/user/janis-smilga-3/)
+
+
+### Below is the original challenge assignment:
 
 - light grey #f1f5f9
 - white #fff
